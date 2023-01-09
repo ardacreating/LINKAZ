@@ -1,0 +1,2 @@
+# LINKAZ
+Basic Url Shorter.
